@@ -1,6 +1,6 @@
 # xamarin-scan-it-classic
 
-Same as scanit, just an older version before I made some changes:
+Same as xamarin-scan-it, just an older version before I made some changes:
 
 An Android app that allows you to take a picture / select from gallery of object. It will add crop handles and outline the largest rectangle.
 
